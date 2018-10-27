@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\62603ceaa4fc5f3e9b2055cf8b9d2d08\\res\\layout\\__arcore_education.xml"
+    },
+    {
+        "merged": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_app_banner.png.flat",
+        "source": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_app_icon.png.flat",
+        "source": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_app_icon.png.flat",
+        "source": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\src\\main\\res\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    }
+]

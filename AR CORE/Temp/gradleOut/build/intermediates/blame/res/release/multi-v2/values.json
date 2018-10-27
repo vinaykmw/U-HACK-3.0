@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "438",
+                        "endColumns": "51",
+                        "endOffsets": "485"
+                    }
+                },
+                {
+                    "source": "E:\\untiy projects\\AR CORE\\Temp\\gradleOut\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,10,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "490,590,728",
+                        "endLines": "9,12,16",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "585,723,950"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Asus\\.gradle\\caches\\transforms-1\\files-1.1\\arcore_client.aar\\62603ceaa4fc5f3e9b2055cf8b9d2d08\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,106,161,266,371",
+                        "endColumns": "50,54,104,104,66",
+                        "endOffsets": "101,156,261,366,433"
+                    }
+                }
+            ]
+        }
+    ]
+}

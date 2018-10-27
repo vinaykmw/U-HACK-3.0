@@ -1,0 +1,4 @@
+#Sat Oct 27 08:27:13 IST 2018
+base.0=E\:\\untiy projects\\AR CORE\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
